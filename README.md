@@ -43,6 +43,13 @@ The dataset contains anonymized credit card transactions with a binary fraud lab
 
 ---
 
+### Transactions by Hour
+![Transactions by Hour](images/transactions_by_hour.png)
+
+### Fraud Rate by Hour
+![Fraud Rate by Hour](images/fraud_rate_by_hour.png)
+
+---
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
